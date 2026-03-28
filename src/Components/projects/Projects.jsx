@@ -11,7 +11,7 @@ const Projects = () => {
           main="this is a bloggin website created in next js and used some component library used some component library"
         />
         <ProjectCard
-          title="Youtue Clone"
+          title="Youtube Clone"
           main="this is a bloggin website created in next js and used some component library used some component library"
         />
         <ProjectCard
