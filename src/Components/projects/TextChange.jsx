@@ -1,7 +1,6 @@
 import "react";
 import { useState, useEffect } from "react";
 const TextChange = () => {
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   const texts = ["Hi, I'm KHAJA", "Hi, I'm Hassan", "Hi, I'm Baghtiyar"];
   const [currenText, setCurrentText] = useState("");
   const [endValue, setendValue] = useState(true);
