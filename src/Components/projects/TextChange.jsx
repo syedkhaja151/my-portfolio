@@ -7,7 +7,6 @@ const TextChange = () => {
   const [isForward, setIsForward] = useState(true);
   const [index, setIndex] = useState(0);
 
-  
   useEffect(() => {
     const intervalId = setInterval(() => {
       setCurrentText(texts[index].substring(0, endValue));
